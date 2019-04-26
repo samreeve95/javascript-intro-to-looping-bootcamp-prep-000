@@ -31,7 +31,8 @@ function whileLoop(x)
     console.log(x);
     x--;
   }
-  console.log(x + "\ndone");
+  console.log(x);
+  return "done";
 }
 
 /*

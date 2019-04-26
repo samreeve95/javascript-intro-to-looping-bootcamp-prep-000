@@ -18,6 +18,8 @@ function forLoop(array)
   }
 }
 
+console.log(array);
+
 /*
 **TODO**: Create a function called `whileLoop` in `loops.js`. The function should take a
 number as an argument. Using a `while` loop, count down (using `console.log`)

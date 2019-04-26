@@ -30,7 +30,7 @@ function whileLoop(x)
   {
     console.log(x--);
   }
-  console.log(x);
+  
   return "done";
 }
 

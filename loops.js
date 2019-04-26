@@ -17,8 +17,8 @@ function forLoop(array)
     array.push(`"I am ${x} strange loop${x === 0 ? '' : 's'}."`);
   }
 }
-
-console.log(array);
+var ar = ["Stuff"];
+console.log(forLoop(ar));
 
 /*
 **TODO**: Create a function called `whileLoop` in `loops.js`. The function should take a

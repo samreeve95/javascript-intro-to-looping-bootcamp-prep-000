@@ -28,8 +28,7 @@ function whileLoop(x)
 {
   while (x>0)
   {
-    console.log(x);
-    x--;
+    console.log(x--);
   }
   console.log(x);
   return "done";

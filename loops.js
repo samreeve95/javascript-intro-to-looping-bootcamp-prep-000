@@ -46,6 +46,6 @@ function doWhileLoop(x)
   do 
   {
     console.log("I run once regardless");
-  } while(x > 0);
+  } while(x-- > 0);
 }
 

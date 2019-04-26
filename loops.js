@@ -15,7 +15,6 @@ function forLoop(array)
   for(x=0;x<25;x++)
   {
     array.push(`"I am ${x} strange loop${x === 1 ? '' : 's'}."`);
-    console.log(`"I am ${x} strange loop${x === 1 ? '' : 's'}."`);
   }
   return array;
 }

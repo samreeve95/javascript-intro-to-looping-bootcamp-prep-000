@@ -18,8 +18,6 @@ function forLoop(array)
   }
   return array;
 }
-var ar = ["Stuff"];
-console.log(forLoop(ar));
 
 /*
 **TODO**: Create a function called `whileLoop` in `loops.js`. The function should take a
